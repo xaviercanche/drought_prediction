@@ -8,10 +8,10 @@ A continuación se presentarán los resultados del Equipo 20, ganadores del segu
 # Equipo 20: Pista Latente ML
 
 **Integrantes del equipo:**   
-1.- Andrea Berenice Ek Hobak    
-2.- Gabriela Marali Mundo Cortés   
-3.- Mario Xavier Canche Uc  
-4.- Myrna Citlali Castillo Silva  
+1.- [Andrea Berenice Ek Hobak](https://github.com/22Andy)    
+2.- [Gabriela Marali Mundo Cortés](https://github.com/maraliycrt)   
+3.- [Mario Xavier Canche Uc](https://github.com/xaviercanche)  
+4.- [Myrna Citlali Castillo Silva](https://github.com/MyrnaC)  
 
 # Sistema de Identificación y predicción de sequía en México  
 El cambio climático y el calentamiento global son unos de los grandes problemas de nuestro tiempo, sus consecuencias ya nos han alcanzado y en muchos lugares se comienzan a sufrir gravemente de muchos de sus problemas. Uno de ellos es la sequía, que impacta de forma crucial a sectores como la agricultura, la ganadería e incluso el abastecimiento de agua en ciertos lugares. Cada año los períodos de sequías son más largos y se comienzan a presentar en períodos atípicos nunca antes pensados. 
